@@ -5,25 +5,8 @@
 
 <h3 align="center">👋🏻 Hi I'm Web Backend Developer </h3>
 
-# 🛠️ Skills
 
-## 💪🏻 Strong
-- Java
-- Spring Framework
-- NaverCloud
 
-## 📘 knowledgeable
-- JavaScript
-- Node.js
-- Express
-- RDBMS
-
-## 👀 ETC
-- Docker
-- Jenkins
-- Vue.js
-- React.js
-- Redis
 
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Function3333&show_icons=true&theme=radical)
