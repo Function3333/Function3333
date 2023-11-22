@@ -2,7 +2,7 @@
 <br/>
 
 <h3 align="center"> 
-<a target="_blank" href="https://kyeongsun.com/"> 👋🏻 Hi I'm Web Backend Developer </a> 
+<a target="_blank" href="https://kyeongsun.com/"> 👋🏻 Hi I'm Backend Developer </a> 
 </h3>
   
 <br/>
